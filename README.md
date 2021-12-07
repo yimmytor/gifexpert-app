@@ -1,2 +1,2 @@
 # GifExpertApp
-GifExpertApp, curso de Fernando Herrera React de Cero a Experto
+GifExpertApp, curso de Fernando Herrera ***React de Cero a Experto***
